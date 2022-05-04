@@ -17,3 +17,7 @@ In this Mini-Project I have designed and simulated a 16 - bit Logically Reversib
 
 # Logical Verification Using ModelSim - Altera
 ![image](https://user-images.githubusercontent.com/66086031/166683231-7e6f150a-66d8-497d-a339-232035f122d9.png)
+
+# Compilation Result
+![image](https://user-images.githubusercontent.com/66086031/166683350-2fad1f02-0d6f-47a1-8348-f5139af99842.png)
+
