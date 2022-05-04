@@ -8,3 +8,12 @@
 - In a reversible system, overwriting operations are avoided.
 
 In this Mini-Project I have designed and simulated a 16 - bit Logically Reversible Carry Look Ahead Adder using Intel Quartus Prime.
+
+# RTL View of a single 4 - bit Reversible CLA
+![image](https://user-images.githubusercontent.com/66086031/166683137-22aa4522-a1f2-42d3-aa83-443b9efb6005.png)
+
+# RTL View of the Entire 16 - bit Reversible Logic CLA
+![image](https://user-images.githubusercontent.com/66086031/166683173-5906603d-f65c-402c-ada9-2f43af4d21f9.png)
+
+# Logical Verification Using ModelSim - Altera
+![image](https://user-images.githubusercontent.com/66086031/166683231-7e6f150a-66d8-497d-a339-232035f122d9.png)
