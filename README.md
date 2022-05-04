@@ -21,3 +21,5 @@ In this Mini-Project I have designed and simulated a 16 - bit Logically Reversib
 # Compilation Result
 ![image](https://user-images.githubusercontent.com/66086031/166683350-2fad1f02-0d6f-47a1-8348-f5139af99842.png)
 
+# Reversible Logic Gates (will replace this soon)
+![image](https://user-images.githubusercontent.com/66086031/166683399-d4f87d4a-1b31-4057-b87b-d8758533e6ab.png)
