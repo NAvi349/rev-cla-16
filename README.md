@@ -31,7 +31,8 @@ In this Mini-Project I have designed and simulated a 16 - bit Logically Reversib
 
 ## 1 - bit Adder
 
-![image](https://user-images.githubusercontent.com/66086031/168439950-7f1db743-41f7-4051-a07c-525d314a628f.png)
+![image](https://user-images.githubusercontent.com/66086031/168439660-d8d7b353-0d6b-4f12-b575-7d676d74ac58.png)
+
 
 ## Tools Used
 
@@ -46,6 +47,8 @@ In this Mini-Project I have designed and simulated a 16 - bit Logically Reversib
 ![image](https://user-images.githubusercontent.com/66086031/166683173-5906603d-f65c-402c-ada9-2f43af4d21f9.png)
 
 ## Logical Verification Using ModelSim - Altera
+
+- If we connect the gates in reverse manner, we can obtain back the inputs.
 
 ![image](https://user-images.githubusercontent.com/66086031/166683231-7e6f150a-66d8-497d-a339-232035f122d9.png)
 
