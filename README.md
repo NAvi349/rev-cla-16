@@ -31,8 +31,7 @@ In this Mini-Project I have designed and simulated a 16 - bit Logically Reversib
 
 ## 1 - bit Adder
 
-![image](https://user-images.githubusercontent.com/66086031/168439660-d8d7b353-0d6b-4f12-b575-7d676d74ac58.png)
-
+![image](https://user-images.githubusercontent.com/66086031/168440115-85eae235-dc79-4487-ad19-e1097be620c8.png)
 
 ## Tools Used
 
