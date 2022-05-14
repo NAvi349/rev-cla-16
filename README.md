@@ -3,6 +3,7 @@
 - [Table of contents](#table-of-contents)
   - [Theory](#theory)
   - [Reversible Logic Gates](#reversible-logic-gates)
+  - [1 - bit Adder](#1---bit-adder)
   - [Tools Used](#tools-used)
   - [RTL View of a single 4 - bit Reversible CLA](#rtl-view-of-a-single-4---bit-reversible-cla)
   - [RTL View of the Entire 16 - bit Reversible Logic CLA](#rtl-view-of-the-entire-16---bit-reversible-logic-cla)
@@ -27,6 +28,11 @@ In this Mini-Project I have designed and simulated a 16 - bit Logically Reversib
 ![image](https://user-images.githubusercontent.com/66086031/168436970-009374df-cd2f-46c4-b07f-db44756897ae.png)
 
 ![image](https://user-images.githubusercontent.com/66086031/168436996-b6fc2e97-9b60-4192-8225-1901abfa8d33.png)
+
+## 1 - bit Adder
+
+![image](https://user-images.githubusercontent.com/66086031/168439660-d8d7b353-0d6b-4f12-b575-7d676d74ac58.png)
+
 
 ## Tools Used
 
