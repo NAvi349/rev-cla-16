@@ -21,7 +21,7 @@
 - Therefore, the operations can be un-computed.
 - In a reversible system, overwriting operations are avoided.
 
-In this Mini-Project I have designed and simulated a 16 - bit Logically Reversible Carry Look Ahead Adder using Intel Quartus Prime.
+In this Mini-Project I have designed and simulated a 16 - bit Logically Reversible Ripple Carry Adder (PG Architecture) using Intel Quartus Prime.
 
 ## Reversible Logic Gates
 
