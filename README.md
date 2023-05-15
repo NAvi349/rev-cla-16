@@ -29,7 +29,12 @@ In this Mini-Project I have designed and simulated a 16 - bit Logically Reversib
 
 ![image](https://user-images.githubusercontent.com/66086031/168436996-b6fc2e97-9b60-4192-8225-1901abfa8d33.png)
 
-![image](https://github.com/NAvi349/rev-cla-16/assets/66086031/f989dc57-c979-47b3-889c-e964beef053a)
+### Reverse Peres Gate
+```css
+P = A
+Q = A ^ B
+R = (A & B) ^ C ^ A
+```
 
 ## 1 - bit Adder
 
